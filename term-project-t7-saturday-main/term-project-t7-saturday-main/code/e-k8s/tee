@@ -1,0 +1,1 @@
+minikube start --kubernetes-version=1.19.2 driver=virtualbox mk-cluster.log

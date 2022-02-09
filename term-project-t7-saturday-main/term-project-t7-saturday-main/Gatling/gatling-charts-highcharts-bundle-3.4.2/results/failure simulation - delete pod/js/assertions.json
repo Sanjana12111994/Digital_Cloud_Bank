@@ -1,0 +1,10 @@
+{
+  "simulation": "BasicSimulation",
+  "simulationId": "basicsimulation",
+  "start": 1607145564135,
+  "description": "",
+  "scenarios": ["Your Scenario Name is => Sustained Load"],
+  "assertions": [
+
+  ]
+}

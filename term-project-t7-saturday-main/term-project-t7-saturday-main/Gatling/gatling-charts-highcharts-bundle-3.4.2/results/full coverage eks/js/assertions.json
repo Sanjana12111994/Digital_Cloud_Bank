@@ -1,0 +1,10 @@
+{
+  "simulation": "BasicSimulation",
+  "simulationId": "basicsimulation",
+  "start": 1607121700030,
+  "description": "",
+  "scenarios": ["Your Scenario Name is => FullCoverage"],
+  "assertions": [
+
+  ]
+}
